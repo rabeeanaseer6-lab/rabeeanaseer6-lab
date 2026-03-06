@@ -1,28 +1,105 @@
 # Hi, I'm Rabeea Naseer 👋
-**Founder & CEO | Full-Stack Developer | Digital Author**
 
-I am a passionate tech leader building digital ecosystems, specialized in high-performance web applications and educational technology.
+**Product Engineer | AI & Data-Driven Systems Developer | Tech Leader | Founder @ NovatraTech**
 
-### 🔭 Currently working on:
-- **Ed-Tech Platform:** Developing a next-generation learning hub to empower students through digital tools.
-- **CryptoYield Hub:** Leading the strategy and technical development for [cryptoyeild.online](https://cryptoyeild.online).
-- **Custom Web Apps:** Building a suite of tool-based websites for productivity and automation.
+I design, build, and ship complete digital systems from scratch — not just frontend or backend components, but fully deployed production platforms.
 
-### 🌱 I’m currently learning:
-- Advanced Blockchain architecture and AI-driven content systems.
+At **NovatraTech**, I architect and develop scalable products including **SaaS platforms, automation systems, AI integrations, mobile apps, and intelligent web applications**. My work combines **software engineering, data intelligence, and system design** to create real-world digital infrastructure.
 
-### 💬 Ask me about:
-- Full-Stack Development (PHP, Python, JavaScript).
-- Scaling digital blogs and SEO for YMYL niches.
-- Strategic leadership and startup growth.
+I work across the full lifecycle of a product:
 
-### 📫 How to reach me:
-- **Portfolio:** [rabeeanaseer.online](https://rabeeanaseer.online)
-- **LinkedIn:** https://www.linkedin.com/in/rabeea-naseer-045b4a337/
+**Idea → Architecture → Development → Deployment → Scaling**
 
-### 😄 Pronouns:
-- She/Her
+---
 
-### ⚡ Fun fact:
-- I am the Founder and CEO of my own company, balancing leadership with hands-on coding every single day!
-Use code with caution.
+## 🚀 What I'm Building
+
+### **NovatraTech**
+A systems engineering company focused on **custom SaaS platforms, automation systems, and business software infrastructure**.
+
+### **CryptoYield Hub**
+A crypto-focused platform combining tools, analytics, and educational resources.
+
+### **Tool-Based Web Platforms**
+Building scalable web utilities and productivity tools powered by automation and AI.
+
+---
+
+## 🧠 Areas I Work In
+
+- SaaS & Web Application Development  
+- AI Integrations & Automation Systems  
+- Mobile App Development (**Flutter / Dart**)  
+- Custom WordPress Platforms  
+- Data-Driven Web Systems & Technical SEO  
+- Internal Business Tools & Dashboards  
+- Cloud Infrastructure & Deployment  
+
+---
+
+## 🧰 Tech Stack
+
+### 💻 Languages
+Polyglot developer working across multiple languages:
+
+- **Python**
+- **JavaScript**
+- **PHP**
+- **Dart**
+- **SQL**
+- **Bash**
+
+### 🌐 Web & Backend
+- Node.js  
+- REST APIs  
+- Web Application Architecture  
+- WordPress Development  
+
+### 📱 Mobile Development
+- Flutter  
+- Dart  
+- Android App Deployment  
+
+### 🤖 Data & AI
+- Python Automation  
+- AI APIs  
+- Data Analysis  
+
+### ⚙️ Infrastructure
+- Linux  
+- VPS Deployment  
+- Cloud Hosting  
+- Server Management  
+
+---
+
+## 📚 Currently Exploring
+
+- AI-powered automation systems  
+- Data-driven SaaS platforms  
+- Scalable digital ecosystems  
+- Intelligent business infrastructure  
+
+---
+
+## 🌐 Connect With Me
+
+**Portfolio**  
+https://rabeeanaseer.online  
+
+**Company**  
+https://novatratech.online  
+
+📍 **Location:** Rawalpindi, Pakistan
+
+---
+
+## 📊 GitHub Focus
+
+On GitHub I share projects related to:
+
+- Automation systems  
+- SaaS architecture experiments  
+- Mobile applications  
+- Developer tools  
+- Data-driven platforms  
